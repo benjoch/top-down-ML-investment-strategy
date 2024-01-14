@@ -1,6 +1,4 @@
-﻿**Market Dynamics and Predictive Analysis of the S&P 500 Equal Weight Consumer Staples Index**
-
-**SPXEWCS**
+﻿**Market Dynamics and Predictive Analysis of the S&P 500 Equal Weight Consumer Staples Index SPXEWCS**
 
 Faruque, Topher, John, Ben
 
