@@ -11,5 +11,7 @@ The research acknowledges the inherent limitations of its data and methods, offe
 - The project's code is split into four jupyter notebooks labeled by topic and ordered by number (starting with 1_price_data_collection). Each notebook is thoroughly commented
 
 - The final report is available for download via final_report.docx
+
+- All data used is available in the data directory
   
 
