@@ -6,7 +6,7 @@ The data is meticulously prepared and transformed for algorithmic analysis. Feat
 
 The research acknowledges the inherent limitations of its data and methods, offering a realistic evaluation of the model's capabilities and suggesting areas for future enhancement. The results highlight the potential of machine learning in financial decision-making, paving the way for further advancements in quantitative finance strategies.
 
-** Repo Navigation**
+**Repo Navigation**
 
 - The project's code is split into four jupyter notebooks labeled by topic and ordered by number (starting with 1_price_data_collection). Each notebook is thoroughly commented
 
